@@ -8,12 +8,43 @@
 
 ## :mag_right: Documentation
 
+The documentation for this project uses the [doxygen](https://www.doxygen.nl/) generator tool to maintain code legibility, inform about technical specifications and clarify module relationships. The tool achieves this by extracting information from specially-formatted comments within the code, with which it hierarchizes code structure. Cross referencing is also possible, so the reader may easily refer to the code from the documentation and vice-versa.
+
 <details>
-    <summary> Agnostic Obsession </summary>
+    <summary> Syntax </summary>
+    The start of a file should include a header with appropriate information regarding its author, associated license and content description as such:
 
-### Agnostic Obsession
+    ```cpp
+    /**
+     * @file
+     * @author  John Doe <jdoe@example.com>
+     * @version 1.0
+     *
+     * @section LICENSE
+     *
+     * This program is free software; you can redistribute it and/or
+     * modify it under the terms of the GNU General Public License as
+     * published by the Free Software Foundation; either version 2 of
+     * the License, or (at your option) any later version.
+     *
+     * This program is distributed in the hope that it will be useful, but
+     * WITHOUT ANY WARRANTY; without even the implied warranty of
+     * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+     * General Public License for more details at
+     * https://www.gnu.org/copyleft/gpl.html
+     *
+     * @section DESCRIPTION
+     *
+     * The time class represents a moment of time.
+     */
+    ```
+    
 
-cenas
+
+
+
+ 
+  
 
 </details>
 
