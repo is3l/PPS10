@@ -1,6 +1,6 @@
 # PPS10
 
-![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)
+![Language](https://img.shields.io/badge/language-Python%203-orange.svg)
 
 ## :mag_right: Documentation
 
